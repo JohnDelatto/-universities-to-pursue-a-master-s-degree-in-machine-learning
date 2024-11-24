@@ -65,9 +65,9 @@ By carefully considering these factors and staying informed about the latest tre
 
 **Would you like to explore a specific area of machine learning, such as deep learning, natural language processing, or computer vision? Or perhaps you have a particular question about the application of machine learning in a specific industry?**
 
-## Top Universities for a Master's in Machine Learning (2021)
+## Top Universities for a Master's in Machine Learning 
 
-While the landscape of higher education and AI research is ever-evolving, here are some of the top universities renowned for their Machine Learning programs in 2021:
+While the landscape of higher education and AI research is ever-evolving, here are some of the top universities renowned for their Machine Learning programs
 
 ### Top Universities for a Master's in Machine Learning
 
